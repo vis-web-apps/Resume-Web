@@ -15,7 +15,7 @@
         <div class="col-md-8 col-sm-6">
             <resume:profile-objective/>
             <resume:profile-skills/>
-            <resume:profile-practicies/>
+            <resume:profile-practices/>
             <resume:profile-certificates/>
             <resume:profile-courses/>
             <resume:profile-education/>

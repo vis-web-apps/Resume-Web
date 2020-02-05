@@ -3,7 +3,7 @@
 <div class="panel panel-primary">
     <div class="panel-heading">
         <h3 class="panel-title">
-            <i class="fa fa-laptop" aria-hidden="true"></i> Practic Experience <a class="edit-block" href="/edit/skills">Edit</a>
+            <i class="fa fa-laptop" aria-hidden="true"></i> Practic Experience <a class="edit-block" href="/edit/practices">Edit</a>
         </h3>
     </div>
 

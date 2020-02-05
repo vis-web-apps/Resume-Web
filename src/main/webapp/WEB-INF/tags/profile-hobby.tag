@@ -3,7 +3,7 @@
 <div class="panel panel-primary">
     <div class="panel-heading">
         <h3 class="panel-title">
-            <i class="fa fa-gratipay"></i> Hobby <a class="edit-block" href="/edit/skills">Edit</a>
+            <i class="fa fa-gratipay"></i> Hobby <a class="edit-block" href="/edit/hobby">Edit</a>
         </h3>
     </div>
     <div class="panel-body">

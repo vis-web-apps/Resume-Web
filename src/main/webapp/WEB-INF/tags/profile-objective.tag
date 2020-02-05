@@ -3,7 +3,7 @@
 <div class="panel panel-primary">
     <div class="panel-heading">
         <h3 class="panel-title" align="left">
-            <i class="fa fa-tasks" aria-hidden="true"></i> Objective <a class="edit-block" href="/edit/skills">Edit</a>
+            <i class="fa fa-tasks" aria-hidden="true"></i> Objective <a class="edit-block" href="/edit/objective">Edit</a>
         </h3>
     </div>
     <div class="panel-body">
