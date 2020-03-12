@@ -4,7 +4,7 @@
     <a href="/edit"><img class="img-responsive photo"
                          src="media/avatar/9fb9d19d-6577-46f1-aa65-0340de64eb4a.jpg" alt="photo"></a>
     <h1 class="text-center">
-        <a style="color: black;" href="/edit">Amy Fowler</a>
+        <a style="color: black;" href="/edit">${fullName}</a>
     </h1>
     <h6 class="text-center">
         <strong>Moscow, Russia</strong>
